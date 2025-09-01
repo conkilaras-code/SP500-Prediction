@@ -12,7 +12,7 @@ This project predicts the **next-day closing price** of the S\&P 500 index using
 * **Moving Averages:** 5, 50, 100-day averages
 * **Daily Returns & Volatility**
 * **Standardized features** with `StandardScaler`
-* **Sequential train/test split** for time-series integrity
+* **Sequential train/test split**
 
 ---
 

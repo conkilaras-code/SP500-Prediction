@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-This project predicts the **next-day closing price** of the S\&P 500 index using a **linear regression model** trained on historical data.
+This project attempts to predict the **next-day closing price** of the S\&P 500 index using a **linear regression model** trained on historical data.
 
 ---
 
